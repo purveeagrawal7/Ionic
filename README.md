@@ -1,2 +1,2 @@
 # Ionic
-working around with Ionic(observables, local storage, different plugins, etc)
+Working around with Ionic(observables, local storage, different plugins, etc)
